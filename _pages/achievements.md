@@ -36,7 +36,7 @@ author_profile: true
 1. Li, J., Xing, J., __Du, S.*__, Du, S., Zhang, C., & Li, W. (2022). Change detection of open-pit mine based on siamese multiscale network. IEEE Geoscience and Remote Sensing Letters, 20, 1-5. (SCI, IF= 4.0, JCR一区)
 2. **Du, S**., Xing, J., Li, J., Du, S., Zhang, C., & Sun, Y. (2022).  Open-pit mine extractionfrom very high resolution remote sensing images using OM-DeepLab. Natural Resources Research, 1-22. (SCI, IF=4.8, JCR一区)
 3. **Du, S**., Li, W., Li, J., Du, S., Zhang, C., & Sun, Y. (2022). Open-pit mine change detection from high resolution remote sensing images using DA-UNet++ and object-based approach. International Journal of Mining, Reclamation and Environment, 1-24. (SCI, IF=2.7, JCR二区)
-4. Zhang, X., Du, S., Taubenböck, H., Wang, Y. C., **Du, S**., Liu, B., & Feng, Y. (2022). Underload city conceptual approach extending ghost city studies. npj Urban Sustainability, 2(1), 15.(SCI, IF=9.1, JCR一区)
+4. Zhang, X., Du, S., Taubenböck, H., Wang, Y. C., **Du, S**., Liu, B., & Feng, Y. (2022). Underload city conceptual approach extending ghost city studies. npj Urban Sustainability, 2(1), 15.(SCI, IF=9.1)
 
 **2021**
 
