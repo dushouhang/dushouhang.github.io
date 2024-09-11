@@ -18,7 +18,7 @@ author_profile: true
 7. **Du, S**., Wu, Y., Guo, L., Fan, D., & Sun, W. (2024). How Does the 2D/3D Urban Morphology Affect the Urban Heat Island across Urban Functional Zones? A Case Study of Beijing, China. ISPRS International Journal of Geo-Information, 13(4), 120. (SCI, IF= 2.8, JCR二区)
 8. **Du, S**., Zheng, M., Guo, L., Wu, Y., Li, Z., & Liu, P. (2024). Urban building function classification based on multisource geospatial data: a two-stage method combining unsupervised and supervised algorithms. Earth Science Informatics, 17(2), 1179-1201. (SCI, IF= 2.7, JCR二区)
 9. Zhao, Y., **Du, S**., Li, K., Jiang, J., Guo, Q., & Xiao, W. (2024). Estimation of canopy height based on multi-source remote sensing data using forest structure aided sample selection. International Journal of Remote Sensing, 45(7), 2235-2268.(SCI, IF= 3.0, JCR二区)
-10. Zheng, Y., Wu, J., **Du, S**., Sun, W., & He, L. (2024). Unrevealing the coupling coordination degree between atmospheric CO2 concentration and human activities from geospatial and temporal perspectives. Science of The Total Environment, 173691.()
+10. Zheng, Y., Wu, J., **Du, S**., Sun, W., & He, L. (2024). Unrevealing the coupling coordination degree between atmospheric CO2 concentration and human activities from geospatial and temporal perspectives. Science of The Total Environment, 173691.(SCI，IF= 8.2,JCR一区，中科院一区TOP)
 11. Cao, S., Zhao, X., & **Du, S**. (2024). Multi-type and fine-grained urban green space function mapping based on BERT model and multi-source data fusion. International Journal of Digital Earth, 17(1), 2308723.(SCI, IF=3.7, JCR一区)
 
 **2023**
@@ -27,7 +27,7 @@ author_profile: true
 2. **Du, S**., Xing, J., Du, S., Cui, X., Xiao, X., Li, W., & Wang, S. (2023). IMG2HEIGHT: height estimation from single remote sensing image using a deep convolutional encoder-decoder network. International Journal of Remote Sensing, 44(18), 5686-5712. (SCI, IF= 3.0, JCR二区)
 3. Ouyang, S., Du, S., Zhang, X., **Du, S**., & Bai, L. (2023). MDFF: A method for fine-grained UFZ mapping with multimodal geographic data and deep network. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.(SCI, IF= 4.7, JCR一区, 中科院二区TOP)
 4. Dai, Y., **Du, S**., & Min, H. (2023). Comparative Hotspot Analysis of Urban Living Environments and Transit-Oriented Development (TOD) Strategies: A Case Study of Beijing and Xi’an. ISPRS International Journal of Geo-Information, 12(11), 446.(SCI, IF= 2.8, JCR二区)
-5. Guo, Q., **Du, S**., Jiang, J., Guo, W., Zhao, H., Yan, X., Zhao, Y. & Xiao, W. (2023). Combining GEDI and sentinel data to estimate forest canopy mean height and aboveground biomass. Ecological Informatics, 78, 102348.()
+5. Guo, Q., **Du, S**., Jiang, J., Guo, W., Zhao, H., Yan, X., Zhao, Y. & Xiao, W. (2023). Combining GEDI and sentinel data to estimate forest canopy mean height and aboveground biomass. Ecological Informatics, 78, 102348.(SCI，IF= 5.8,JCR一区，中科院二区TOP)
 6. 杜守航,李炜,邢江河等.基于FM-UNet++和高分二号卫星影像的露天矿区范围变化检测[J].煤田地质与勘探,2023,51(07):130-139. (EI)
 7. 杜守航. 新工科建设下测量学教学改革研究 [J]. 科技风, 2023, (14): 102-104.
 
@@ -36,13 +36,13 @@ author_profile: true
 1. Li, J., Xing, J., __Du, S.*__, Du, S., Zhang, C., & Li, W. (2022). Change detection of open-pit mine based on siamese multiscale network. IEEE Geoscience and Remote Sensing Letters, 20, 1-5. (SCI, IF= 4.0, JCR一区)
 2. **Du, S**., Xing, J., Li, J., Du, S., Zhang, C., & Sun, Y. (2022).  Open-pit mine extractionfrom very high resolution remote sensing images using OM-DeepLab. Natural Resources Research, 1-22. (SCI, IF=4.8, JCR一区)
 3. **Du, S**., Li, W., Li, J., Du, S., Zhang, C., & Sun, Y. (2022). Open-pit mine change detection from high resolution remote sensing images using DA-UNet++ and object-based approach. International Journal of Mining, Reclamation and Environment, 1-24. (SCI, IF=2.7, JCR二区)
-4. Zhang, X., Du, S., Taubenböck, H., Wang, Y. C., **Du, S**., Liu, B., & Feng, Y. (2022). Underload city conceptual approach extending ghost city studies. npj Urban Sustainability, 2(1), 15.()
+4. Zhang, X., Du, S., Taubenböck, H., Wang, Y. C., **Du, S**., Liu, B., & Feng, Y. (2022). Underload city conceptual approach extending ghost city studies. npj Urban Sustainability, 2(1), 15.(SCI, IF=9.1, JCR一区)
 
 **2021**
 
 1. **Du, S**., Du, S., Liu, B., & Zhang, X. (2021). Mapping large-scale and fine-grained urban functional zones from VHR images using a multi-scale semantic segmentation network and object based approach. Remote Sensing of Environment, 261, 112480. (SCI, IF= 11.1, JCR一区, 中科院一区TOP)
 2. **Du, S**., Du, S., Liu, B., & Zhang, X. (2021). Incorporating DeepLabv3+ and object-based image analysis for semantic segmentation of very high resolution remote sensing images. International Journal of Digital Earth, 14(3), 357-378. (SCI, IF=3.7, JCR一区, 中科院一区TOP)
-3. Shang, S., Du, S., **Du, S**., & Zhu, S. (2021). Estimating building-scale population using multi-source spatial data. Cities, 111, 103002.()
+3. Shang, S., Du, S., **Du, S**., & Zhu, S. (2021). Estimating building-scale population using multi-source spatial data. Cities, 111, 103002.(SCI, IF=6, JCR一区, 中科院一区TOP)
 4. Xi, W., Du, S., **Du, S**., Zhang, X., & Gu, H. (2021). Intra-annual land cover mapping and dynamics analysis with dense satellite image time series: A spatiotemporal cube based spatiotemporal contextual method. GIScience & Remote Sensing, 58(7), 1195-1218.(SCI, IF=6.0, JCR一区)
 
 **2020**
@@ -59,7 +59,7 @@ author_profile: true
 
 **2018**
 
-1. Zhang, Y., Zhang, M., **Du, S**., Zou, Z., & Fan, C. (2018). Seamline optimisation for urban aerial ortho‐image mosaicking using graph cuts. The Photogrammetric Record, 33(161), 131-147.
+1. Zhang, Y., Zhang, M., **Du, S**., Zou, Z., & Fan, C. (2018). Seamline optimisation for urban aerial ortho‐image mosaicking using graph cuts. The Photogrammetric Record, 33(161), 131-147.(SCI, IF= 2.1, JCR三区, 中科院三区TOP)
 
 **2017**
 
