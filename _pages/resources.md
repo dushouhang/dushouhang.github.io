@@ -11,5 +11,5 @@ author_profile: true
 
 * **Du, S**., Xing, J., Wang, S., Wei, L., & Zhang, Y. (2024). STMNet: Scene Classification-Assisted and Texture Feature-Enhanced Multi-Scale Network for Large-Scale Urban Informal Settlement Extraction from Remote Sensing Images. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing. (SCI, IF= 4.7, JCR一区, 中科院二区TOP) [![](https://img.shields.io/badge/code-silver?style=for-the-badge&logo=react&logoColor=black)](https://github.com/dushouhang/code1)
 
-* **Du, S**., Xing, J., Wang, S., Xiao, X., Li, J., & Liu, H. (2024). LUMNet: Land Use Knowledge Guided Multiscale Network for Height Estimation from Single Remote Sensing Images. IEEE Geoscience and Remote Sensing Letters. (SCI, IF= 4.0, JCR一区)[![](https://img.shields.io/badge/code-silver?style=for-the-badge&logo=react&logoColor=black)](https://github.com/dushouhang/code1)
+* **Du, S**., Xing, J., Wang, S., Xiao, X., Li, J., & Liu, H. (2024). LUMNet: Land Use Knowledge Guided Multiscale Network for Height Estimation from Single Remote Sensing Images. IEEE Geoscience and Remote Sensing Letters. (SCI, IF= 4.0, JCR一区)[![](https://img.shields.io/badge/code-silver?style=for-the-badge&logo=react&logoColor=black)](https://github.com/dushouhang/code2)
 
