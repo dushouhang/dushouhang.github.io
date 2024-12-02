@@ -25,7 +25,7 @@ author_profile: true
 
 **2023**
 
-1. Wang, C., __Du, S.*__, Sun, W., & Fan, D. (2023). Self-supervised learning for high-resolution remote sensing images change detection with variational information bottleneck. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*, 16, 5849-5866. (SCI, IF= 4.7, JCR一区, 中科院二区TOP)
+1. Wang, C., __Du, S.*__, Sun, W., & Fan, D. (2023). Self-supervised learning for high-resolution remote sensing images change detection with variational information bottleneck. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, 16, 5849-5866. (SCI, IF= 4.7, JCR一区, 中科院二区TOP)
 2. **Du, S**., Xing, J., Du, S., Cui, X., Xiao, X., Li, W., & Wang, S. (2023). IMG2HEIGHT: height estimation from single remote sensing image using a deep convolutional encoder-decoder network. *International Journal of Remote Sensing*, 44(18), 5686-5712. (SCI, IF= 3.0, JCR二区)
 3. Ouyang, S., Du, S., Zhang, X., **Du, S**., & Bai, L. (2023). MDFF: A method for fine-grained UFZ mapping with multimodal geographic data and deep network. *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing*.(SCI, IF= 4.7, JCR一区, 中科院二区TOP)
 4. Dai, Y., **Du, S**., & Min, H. (2023). Comparative Hotspot Analysis of Urban Living Environments and Transit-Oriented Development (TOD) Strategies: A Case Study of Beijing and Xi’an. *ISPRS International Journal of Geo-Information*, 12(11), 446.(SCI, IF= 2.8, JCR二区)
@@ -35,7 +35,7 @@ author_profile: true
 
 **2022**
 
-1. Li, J., Xing, J., __Du, S.*__, Du, S., Zhang, C., & Li, W. (2022). Change detection of open-pit mine based on siamese multiscale network. *IEEE Geoscience and Remote Sensing Letters*, 20, 1-5. (SCI, IF= 4.0, JCR一区)
+1. Li, J., Xing, J., __Du, S.*__, Du, S., Zhang, C., & Li, W. (2022). Change detection of open-pit mine based on siamese multiscale network. _IEEE Geoscience and Remote Sensing Letters_, 20, 1-5. (SCI, IF= 4.0, JCR一区)
 2. **Du, S**., Xing, J., Li, J., Du, S., Zhang, C., & Sun, Y. (2022).  Open-pit mine extractionfrom very high resolution remote sensing images using OM-DeepLab. *Natural Resources Research*, 1-22. (SCI, IF=4.8, JCR一区)
 3. **Du, S**., Li, W., Li, J., Du, S., Zhang, C., & Sun, Y. (2022). Open-pit mine change detection from high resolution remote sensing images using DA-UNet++ and object-based approach. *International Journal of Mining, Reclamation and Environment*, 1-24. (SCI, IF=2.7, JCR二区)
 4. Zhang, X., Du, S., Taubenböck, H., Wang, Y. C., **Du, S**., Liu, B., & Feng, Y. (2022). Underload city conceptual approach extending ghost city studies. *npj Urban Sustainability*, 2(1), 15.(SCI, IF=9.1)
