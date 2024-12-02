@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📖 个人简介
 
-[**杜守航**](https://dcxy.cumtb.edu.cn/info/1011/4692.htm)，博士、副教授、硕士生导师。2021年博士毕业于北京大学地图学与地理信息系统专业。中国测绘学会对地观测工作委员会委员，中国测绘学会智能化测绘工作委员会委员。近年来，主持国家自然科学基金青年基金项目、中国博士后科学基金特别资助项目、中国博士后科学基金面上项目等9项，参与国家重点研发计划、国家自然科学基金、企事业单位横向课题等项目10余项。发表一作/通讯论文23篇，其中SCI论文19篇，Remote Sensing of Environment、ISPRS Journal of Photogrammetry and Remote Sensing等中科院TOP期刊论文7篇，论文引用800余次。授权发明专利3项，授权软件著作权2项。获全国“高校GIS新秀”等荣誉称号，成果入选外交部《地球大数据支撑可持续发展目标报告（2021）》，获得2023年地理信息科技进步一等奖和2022年地理信息科技进步二等奖。担任TGRS、GRSL、JAG、IJDE、Scientific Reports、IJRS、Remote Sensing等SCI期刊审稿人。
+[**杜守航**](https://dcxy.cumtb.edu.cn/info/1011/4692.htm)，博士、副教授、硕士生导师。2021年博士毕业于北京大学地图学与地理信息系统专业。中国测绘学会对地观测工作委员会委员，中国测绘学会智能化测绘工作委员会委员。近年来，主持国家自然科学基金青年基金项目、中国博士后科学基金特别资助项目、中国博士后科学基金面上项目等9项，参与国家重点研发计划、国家自然科学基金、企事业单位横向课题等项目10余项。发表一作/通讯论文25篇，其中SCI论文21篇，Remote Sensing of Environment、ISPRS Journal of Photogrammetry and Remote Sensing等中科院TOP期刊论文7篇，论文引用1000余次。授权发明专利3项，授权软件著作权2项。获全国“高校GIS新秀”等荣誉称号，成果入选外交部《地球大数据支撑可持续发展目标报告（2021）》，获得2023年地理信息科技进步一等奖和2022年地理信息科技进步二等奖。担任RSE、TGRS、GRSL、JAG、IJDE、Scientific Reports、IJRS、Remote Sensing等SCI期刊审稿人。
 
 
 ## 👨‍🎓 教育背景
