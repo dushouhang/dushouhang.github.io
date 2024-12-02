@@ -37,9 +37,8 @@ redirect_from:
 * 电子邮箱：dush@cumtb.edu.cn
 * 办公地址：中国矿业大学（北京）学院路校区综合楼
 
-本站总访问量<span id="busuanzi_value_site_pv"></span>次
-本站访客数<span id="busuanzi_value_site_uv"></span>人次
-本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 
 
