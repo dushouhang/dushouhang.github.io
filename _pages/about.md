@@ -37,7 +37,9 @@ redirect_from:
 * 电子邮箱：dush@cumtb.edu.cn
 * 办公地址：中国矿业大学（北京）学院路校区综合楼
 
-
+<script src="https://cdn1.lncld.net/static/js/av-mini-0.6.10.js"></script>
+<script src="http://jerry-cdn.b0.upaiyun.com/hit-kounter/hit-kounter-lc-0.2.0.js"></script>
+<span data-hk-page="current"> - </span>
 
 
 
