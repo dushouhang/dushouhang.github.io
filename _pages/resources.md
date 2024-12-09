@@ -15,3 +15,4 @@ author_profile: true
 
 * Li, J., Xing, J., __Du, S.*__, Du, S., Zhang, C., & Li, W. (2022). Change detection of open-pit mine based on siamese multiscale network. IEEE Geoscience and Remote Sensing Letters, 20, 1-5. (SCI, IF= 4.0, JCR一区)[![](https://img.shields.io/badge/code-silver?style=for-the-badge&logo=react&logoColor=black)](https://github.com/dushouhang/code3)
 
+[![下载量统计](https://img.shields.io/github/downloads/你的用户名/你的仓库名/total?label=总下载量&color=brightgreen)](https://github.com/dushouhang/code1/releases)
