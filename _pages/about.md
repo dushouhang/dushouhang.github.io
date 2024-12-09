@@ -39,7 +39,7 @@ redirect_from:
 
 
 ### 📊 访问统计
-![访问量](https://komarev.com/ghpvc/?username=dushouhang&color=brightgreen)
+* ![访问量](https://komarev.com/ghpvc/?username=dushouhang&color=brightgreen)
 
 
 
