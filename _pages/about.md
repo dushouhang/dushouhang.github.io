@@ -38,8 +38,7 @@ redirect_from:
 * 办公地址：中国矿业大学（北京）学院路校区综合楼
 
 
-### 📊 访问统计
-* ![访问量](https://komarev.com/ghpvc/?username=dushouhang&color=brightgreen)
+
 
 
 
