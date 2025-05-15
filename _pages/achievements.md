@@ -7,6 +7,10 @@ author_profile: true
 
 ## 发表论文：
 
+**2025**
+
+1. Guo, L., **Du, S**., Sun, W., Fan, D., & Wu, Y. (2025). Multi-scale impact of urban building function and 2D/3D morphology on urban heat island effect: a case study in Shanghai, China. Energy and Buildings, 338, 115719.(SCI, IF= 6.6, JCR一区, 中科院二区TOP)
+
 **2024**
 
 1. **Du, S**., Liu, H., Xing, J., & Du, S. (2024). Fusing multimodal data of nature-economy-society for large-scale urban building height estimation. *International Journal of Applied Earth Observation and Geoinformation*, 129, 103809. (SCI, IF= 7.6, JCR一区, 中科院一区TOP)
@@ -40,7 +44,7 @@ author_profile: true
 
 **2021**
 
-1. **Du, S**., Du, S., Liu, B., & Zhang, X. (2021). Mapping large-scale and fine-grained urban functional zones from VHR images using a multi-scale semantic segmentation network and object based approach. *Remote Sensing of Environment*, 261, 112480. (SCI, IF= 11.1, JCR一区, 中科院一区TOP)
+1. **Du, S**., Du, S., Liu, B., & Zhang, X. (2021). Mapping large-scale and fine-grained urban functional zones from VHR images using a multi-scale semantic segmentation network and object based approach. *Remote Sensing of Environment*, 261, 112480. (SCI, IF= 11.1, JCR一区, 中科院一区TOP，ESI前1%高被引)
 2. **Du, S**., Du, S., Liu, B., & Zhang, X. (2021). Incorporating DeepLabv3+ and object-based image analysis for semantic segmentation of very high resolution remote sensing images. *International Journal of Digital Earth*, 14(3), 357-378. (SCI, IF=3.7, JCR一区, 中科院一区TOP)
 3. Shang, S., Du, S., **Du, S**., & Zhu, S. (2021). Estimating building-scale population using multi-source spatial data. *Cities*, 111, 103002.(SCI, IF=6, JCR一区, 中科院一区TOP)
 4. Xi, W., Du, S., **Du, S**., Zhang, X., & Gu, H. (2021). Intra-annual land cover mapping and dynamics analysis with dense satellite image time series: A spatiotemporal cube based spatiotemporal contextual method. *GIScience & Remote Sensing*, 58(7), 1195-1218.(SCI, IF=6.0, JCR一区)
