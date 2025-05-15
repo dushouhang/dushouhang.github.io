@@ -9,7 +9,7 @@ author_profile: true
 
 **2025**
 
-1. Guo, L., **Du, S**., Sun, W., Fan, D., & Wu, Y. (2025). Multi-scale impact of urban building function and 2D/3D morphology on urban heat island effect: a case study in Shanghai, China. Energy and Buildings, 338, 115719.(SCI, IF= 6.6, JCR一区, 中科院二区TOP)
+1. Guo, L., __Du, S.*__, Sun, W., Fan, D., & Wu, Y. (2025). Multi-scale impact of urban building function and 2D/3D morphology on urban heat island effect: a case study in Shanghai, China. Energy and Buildings, 338, 115719.(SCI, IF= 6.6, JCR一区, 中科院二区TOP)
 
 **2024**
 
