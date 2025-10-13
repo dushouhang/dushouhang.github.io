@@ -10,8 +10,9 @@ author_profile: true
 **2025**
 
 1. **Du, S.**, Zhang, Y., Zhu, L., Wang, S., Liu, Z., Zhou, H., Zhang, X., & Du, S. (2025). A Multimodal Data Fusion Framework for Urban Functional ZoneMapping Based on Local-Global Information Enhancement andAdaptive Spatial Units: From Standard Datasets to Global CityValidation. _International Journal of Applied Earth Observation and Geoinformation_.(SCI, IF= 8.6, JCR一区, 中科院一区TOP)
-2. **Du, S.**, Liu, H., Xing, J., Zhang, X., Zhang, J., Guan, X., & Du, S. (2025). Estimating Individual Building Heights by Integrating Spaceborne LiDAR and Multisource Remote Sensing Data: A CNN-Transformer Model and A Semi-Supervised Sample Augmentation Approach. _IEEE Transactions on Geoscience and Remote Sensing_.(SCI, IF= 8.6, JCR一区, 中科院一区TOP)
-3. Guo, L., __Du, S.*__, Sun, W., Fan, D., & Wu, Y. (2025). Multi-scale impact of urban building function and 2D/3D morphology on urban heat island effect: a case study in Shanghai, China. _Energy and Buildings_, 338, 115719.(SCI, IF= 6.6, JCR一区, 中科院二区TOP)
+2. Cao, S., Zhao, X., **Du, S.**, & Yin, S.(2025). Spatiotemporal evolution analysis of social functions in multi-scale urban green spaces based on multimodal data fusion: A case study of shanghai from 2014 to 2023. _Ecological Indicators_, 179, 114203. (SCI, IF= 7.4, JCR一区, 中科院一区TOP)
+3. **Du, S.**, Liu, H., Xing, J., Zhang, X., Zhang, J., Guan, X., & Du, S. (2025). Estimating Individual Building Heights by Integrating Spaceborne LiDAR and Multisource Remote Sensing Data: A CNN-Transformer Model and A Semi-Supervised Sample Augmentation Approach. _IEEE Transactions on Geoscience and Remote Sensing_.(SCI, IF= 8.6, JCR一区, 中科院一区TOP)
+4. Guo, L., __Du, S.*__, Sun, W., Fan, D., & Wu, Y. (2025). Multi-scale impact of urban building function and 2D/3D morphology on urban heat island effect: a case study in Shanghai, China. _Energy and Buildings_, 338, 115719.(SCI, IF= 6.6, JCR一区, 中科院二区TOP)
 
 **2024**
 
