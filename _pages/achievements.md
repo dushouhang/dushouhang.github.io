@@ -10,7 +10,6 @@ author_profile: true
 **2026**
 
 1. Huang, Y., __Du, S.*__, Gu, J., Fan, D., Sun, W., & Guo, T. (2026). Layered Scene-Aware Network: Fusing Multimodal Data for Fine-Grained Urban Functional Zone Classification. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_.(SCI, IF= 5.3, JCR一区)
-2. 杜守航，崔希民，李军，孙文彬，袁德宝 & 陈伟. (2026). 基于OBE-CDIO理念的“人工智能遥感应用”课程改革研究. 测绘通报.
 
 **2025**
 
