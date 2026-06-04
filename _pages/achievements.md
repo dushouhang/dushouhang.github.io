@@ -10,7 +10,8 @@ author_profile: true
 **2026**
 
 1. Guo, T., __Du, S.*__, Wang, S., Liu, Z., Zhu, L., Zhang, J., Zhang X. & Du, S. (2026). A function-semantic oriented heterogeneous graph aggregation framework with weighted spatial relationships for urban functional zone mapping. _Remote Sensing of Environment_, 344, 115507. (SCI, IF= 11.4, JCR一区, 中科院一区TOP)
-2. Huang, Y., __Du, S.*__, Gu, J., Fan, D., Sun, W., & Guo, T. (2026). Layered Scene-Aware Network: Fusing Multimodal Data for Fine-Grained Urban Functional Zone Classification. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_.(SCI, IF= 5.3, JCR一区)
+2. Zhu, L., Xing, H., Sun, W., __Du, S.__, Wang, C., & Su, Q. (2026). Sample selection for remote sensing image change detection with unsupervised knowledge representation quantification. _Pattern Recognition_, 113671.(SCI, IF= 7.6, JCR一区, 中科院一区TOP)
+3. Huang, Y., __Du, S.*__, Gu, J., Fan, D., Sun, W., & Guo, T. (2026). Layered Scene-Aware Network: Fusing Multimodal Data for Fine-Grained Urban Functional Zone Classification. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_.(SCI, IF= 5.3, JCR一区)
 
 **2025**
 
