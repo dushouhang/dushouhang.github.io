@@ -11,7 +11,7 @@ redirect_from:
 
 ## 📖 个人简介
 
-[**杜守航**](https://dcxy.cumtb.edu.cn/info/1011/4692.htm)，博士、副教授、博士生导师。2021年博士毕业于北京大学地图学与地理信息系统专业。中国测绘学会对地观测工作委员会委员，中国测绘学会智能化测绘工作委员会委员。近年来，主持国家自然科学基金项目、中国博士后科学基金特别资助项目等15项，参与国家重点研发计划、国家自然科学基金、企事业单位横向课题等项目20余项。发表一作/通讯论文32篇，其中SCI论文25篇，Remote Sensing of Environment、ISPRS Journal of Photogrammetry and Remote Sensing等中科院一区/TOP期刊论文13篇，ESI高被引论文1篇，论文被Nature、Nature Reviews Earth & Environment等期刊引用1800余次，授权发明专利4项，授权软件著作权2项。获全国“高校GIS新秀”等荣誉称号，成果入选《地球大数据支撑可持续发展目标报告（2021）》，获得2023年地理信息科技进步一等奖和2022年地理信息科技进步二等奖。担任《测绘工程》青年编委，RSE、TGRS、GRSL、JAG、IJDE、IJRS、Remote Sensing等SCI期刊审稿人。
+[**杜守航**](https://dcxy.cumtb.edu.cn/info/1011/4692.htm)，博士、副教授、博士生导师。2021年博士毕业于北京大学地图学与地理信息系统专业。主要从事多模态遥感与深度学习、城市空间智能感知研究，主持国家自然科学基金项目（面上、青年）、中国博士后科学基金项目（特别资助、面上）等15项，参与国家重点研发计划、企事业单位横向课题等项目20余项。发表一作/通讯论文32篇，其中SCI论文25篇，Remote Sensing of Environment、ISPRS Journal of Photogrammetry and Remote Sensing等中科院一区/TOP期刊论文13篇，ESI高被引论文1篇，论文被Nature、Nature Reviews Earth & Environment等期刊引用1800余次，授权发明专利4项，授权软件著作权2项。获全国“高校GIS新秀”等荣誉称号，成果入选《地球大数据支撑可持续发展目标报告（2021）》，获得地理信息科技进步一等奖1项、二等奖2项。担任Discover Earth Observation编委、Remote Sensing青年编委、测绘工程期刊青年编委以及多个SCI期刊客座编辑，RSE、TGRS、JAG、JSTARS、CEUS、Cities等20余个SCI期刊审稿人。现为中国测绘学会对地观测工作委员会委员、中国测绘学会智能化测绘工作委员会委员、中国测绘学会青年工作委员会委员、国际数字地球学会中国国家委员会青年科学家工作委员会委员。
 
 
 ## 👨‍🎓 教育背景
@@ -23,7 +23,7 @@ redirect_from:
 ## 💻 研究方向
 
 * 城市大数据智能理解与分析
-* 深度学习遥感影像智能解译
+* 多模态遥感与深度学习方法
 * 自然资源监测与生态环境评价
 
 ## 🏠 工作经历
